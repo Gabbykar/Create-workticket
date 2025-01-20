@@ -26,20 +26,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h3>1.) Create Tickets as End-Users</h3>
 
-- **Scenario 1:** Create a ticket as an end-user with the following details:
-  - **Subject:** "Entire mobile/online banking system is down"
-  - **Details:** Describe the issue briefly (e.g., "The entire online banking system is down, preventing users from accessing their accounts.")
+- Create a ticket as an end-user with the following details:
+  "Entire mobile/online banking system is down"
+  
 
 <p>
 <img src="https://github.com/user-attachments/assets/90cc688e-ae33-4d39-8559-2e1f70224fbb"/>
 </p>
 
 
-</p>
+<h3>2.) Set Ticket Properties</h3>
 
-<h3>3.) Set Ticket Properties</h3>
-
-- Update the ticket with the following properties:
+- Update ticket with the following properties:
   - **SLA:** Sev-A (1 hour, 24/7).
   - **Assigned To:** Online Banking Department.
 
@@ -48,10 +46,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 
 
-<h3>5.) Work the Ticket to Completion</h3>
+<h4>3.) Work the Ticket to Completion</h3>
 
-- Log in as **Help Desk Agent (jane)**.
-- Take ownership of the ticket, work the issue, and resolve it.
+- Log in as **Help Desk Agent (Jane)**.
+- Work the issue, and resolve it.
 - Mark the ticket as **Closed** once the issue is resolved.
 
 <p>
@@ -72,11 +70,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 ---
 
-<h3>6.) Create Another Ticket as End-User</h3>
+<h3>4.) Create Another Ticket as End-User</h3>
 
-- **Scenario 2:** Create a ticket as an end-user with the following details:
-  - **Subject:** "Accounting department needs Adobe upgrade, broken"
-  - **Details:** Describe the issue briefly (e.g., "The Adobe software used by the accounting department is broken and needs an upgrade.")
+- Create a ticket as an end-user with the following details:
+  - "Accounting department needs Adobe upgrade, broken"
+  - Describe the issue briefly (e.g., "The Adobe software used by the accounting department is broken and needs an upgrade.")
  
 <p>
 <img src="https://github.com/user-attachments/assets/035020df-abc9-4d8b-a60d-17131de55589"/>
@@ -85,7 +83,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
  
 <p>
 
-<h3>8.) Set Ticket Properties</h3>
+<h3>5.) Set Ticket Properties</h3>
 
 - Update the ticket with the following properties:
   - **SLA:** Sev-C (4 hours, 24/7).
@@ -95,9 +93,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://github.com/user-attachments/assets/1781c432-c4f9-4f6b-a418-5fb3f4aa5119"/>
 </p>
 
-<h3>9.) Work the Ticket to Completion</h3>
-- Log in as **Help Desk Agent (john)**.
-- Take ownership of the ticket, work the issue, and resolve it.
+<h3>6.) Work the Ticket to Completion</h3>
+- Log in as **Help Desk Agent (John)**.
+- Work the issue, and resolve it.
 - Mark the ticket as **Closed** once the issue is resolved.
 
 <p>
@@ -122,43 +120,38 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ---
 
-<h3>10.) Create a Final Ticket as End-User</h3>
+<h3>7.) Create a Final Ticket as End-User</h3>
 
-- **Scenario 3:** Create a ticket as an end-user with the following details:
-  - **Subject:** "CFO’s laptop will no longer turn on"
-  - **Details:** Describe the issue briefly (e.g., "The CFO's laptop is not powering on, and it needs urgent attention.")
+- Create a ticket as an end-user with the following details:
+  - "CFO’s laptop will no longer turn on"
+  - Describe the issue briefly (e.g., "The CFO's laptop is not powering on, and it needs urgent attention.")
  
 <p>
 <img src="https://github.com/user-attachments/assets/0a5814c9-84d6-4948-8c13-cbe0fc41f131"/>
 </p>
 
-<h3>11.) Observe Ticket Properties as Help Desk Agent</h3>
-
-- Log in as **Help Desk Agent (john)**.
-- Observe the ticket’s properties:
-  - **Priority:** Default value.
-  - **Department:** Default department.
-  - **SLA:** Default SLA.
-  - **Assigned To:** Not yet assigned.
-
-<p>
-<img src="https://github.com/user-attachments/assets/30705a5e-ae48-4509-8e2c-1e37333ef4e7"/>
 
 
-<h3>12.) Set Ticket Properties</h3>
+
+- <h3>8.) Set Ticket Properties</h3>
+Log in as **Help Desk Agent (John)**.
 
 - Update the ticket with the following properties:
   - **SLA:** Sev-B (4 hours, 24/7).
   - **Department:** Support.
 
 <p>
+<img src="https://github.com/user-attachments/assets/30705a5e-ae48-4509-8e2c-1e37333ef4e7"/
+
+
+<p>
 <img src="https://github.com/user-attachments/assets/d519595c-8c45-4669-8965-79da317a99eb"/>
 </p>
 
-<h3>13.) Work the Ticket to Completion</h3>
+<h3>9.) Work the Ticket to Completion</h3>
 
-- Log in as **Help Desk Agent (john)**.
-- Take ownership of the ticket, work the issue, and resolve it.
+
+- Work the issue, and resolve it.
 - Mark the ticket as **Closed** once the issue is resolved.
 
 <p>
@@ -178,4 +171,4 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Conclusion</h2>
 
-By following these steps, you have successfully demonstrated the lifecycle of a ticket from intake to resolution within osTicket. This lab highlights the importance of ticket properties, proper assignment, and resolution processes in a help desk environment.
+Following these steps, you have successfully demonstrated the lifecycle of a ticket from intake to resolution within osTicket. This lab highlights the importance of ticket properties, proper assignment, and resolution processes in a help desk environment.
