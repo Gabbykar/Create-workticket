@@ -31,20 +31,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - **Details:** Describe the issue briefly (e.g., "The entire online banking system is down, preventing users from accessing their accounts.")
 
 <p>
-<img src="https://i.imgur.com/Y6Xptx1.png" height="80%" width="80%" alt="Lab 3 Step 3"/>
+<img src="https://github.com/user-attachments/assets/90cc688e-ae33-4d39-8559-2e1f70224fbb"/>
 </p>
 
-<h3>2.) Observe Ticket Properties as Help Desk Agent</h3>
 
-- Log in as **Help Desk Agent (john)**.
-- Observe the ticket’s properties:
-  - **Priority:** Default value.
-  - **Department:** Default department.
-  - **SLA:** Default SLA.
-  - **Assigned To:** Not yet assigned.
- 
-<p>
-<img src="https://i.imgur.com/LjDNXwD.png" height="80%" width="80%" alt="Lab 3 Step 3"/>
 </p>
 
 <h3>3.) Set Ticket Properties</h3>
@@ -54,13 +44,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - **Assigned To:** Online Banking Department.
 
 <p>
-<img src="https://i.imgur.com/cisoLqw.png" height="80%" width="80%" alt="Lab 3 Step 3"/>
+<img src="https://github.com/user-attachments/assets/3b5e4149-00f7-444a-9d0e-54027902bdac"/>
 </p>
 
-<h3>4.) Verify Ticket Permissions</h3>
-
-- Log back in as **Help Desk Agent (john)**.
-- Attempt to view or modify the ticket. Verify whether the changes are accessible or editable.
 
 <h3>5.) Work the Ticket to Completion</h3>
 
@@ -69,9 +55,21 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Mark the ticket as **Closed** once the issue is resolved.
 
 <p>
-<img src="https://i.imgur.com/9xTQiJv.png" height="80%" width="80%" alt="Lab 3 Step 3"/>
+<img src="https://github.com/user-attachments/assets/05d1c084-05fb-4b40-9760-528e6086eca1"/>
+
 </p>
 
+<p>
+<img src="https://github.com/user-attachments/assets/20c19493-380b-46d5-afe8-49c749ee9654"/>
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/caa41ecf-a813-473e-94f2-c3a6cbccdfc2"/>
+</p
+
+<p>
+<img src="https://github.com/user-attachments/assets/3cc3abbe-3390-44a8-b49a-24236d3fe785"/>
+</p>
 ---
 
 <h3>6.) Create Another Ticket as End-User</h3>
@@ -81,40 +79,45 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - **Details:** Describe the issue briefly (e.g., "The Adobe software used by the accounting department is broken and needs an upgrade.")
  
 <p>
-<img src="https://i.imgur.com/oOqE4OE.png" height="80%" width="80%" alt="Lab 3 Step 3"/>
+<img src="https://github.com/user-attachments/assets/035020df-abc9-4d8b-a60d-17131de55589"/>
 </p>
 
-<h3>7.) Observe Ticket Properties as Help Desk Agent</h3>
-
-- Log in as **Help Desk Agent (john)**.
-- Observe the ticket’s properties:
-  - **Priority:** Default value.
-  - **Department:** Default department.
-  - **SLA:** Default SLA.
-  - **Assigned To:** Not yet assigned.
  
 <p>
-<img src="https://i.imgur.com/jJBm8Pa.png" height="80%" width="80%" alt="Lab 3 Step 3"/>
-</p>
 
 <h3>8.) Set Ticket Properties</h3>
 
 - Update the ticket with the following properties:
-  - **SLA:** Sev-B (4 hours, 24/7).
+  - **SLA:** Sev-C (4 hours, 24/7).
   - **Department:** Support.
  
 <p>
-<img src="https://i.imgur.com/jeRS4dt.png" height="80%" width="80%" alt="Lab 3 Step 3"/>
+<img src="https://github.com/user-attachments/assets/1781c432-c4f9-4f6b-a418-5fb3f4aa5119"/>
 </p>
 
 <h3>9.) Work the Ticket to Completion</h3>
-
 - Log in as **Help Desk Agent (john)**.
 - Take ownership of the ticket, work the issue, and resolve it.
 - Mark the ticket as **Closed** once the issue is resolved.
 
 <p>
-<img src="https://i.imgur.com/v7cimS1.png" height="80%" width="80%" alt="Lab 3 Step 3"/>
+<img src="https://github.com/user-attachments/assets/5c5b1089-6940-4a3b-8502-b448887101ba"/>
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/01e76f18-5444-4c9c-9fef-21313b7496b7"/>
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/8f9de769-5e8c-4aeb-ad8d-87041f06c33f"/>
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/c6ee43f5-aea5-41fa-87b0-c7db6efb0a59"/>
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/69673aae-a5e9-4008-9388-f3a6202c416a"/>
 </p>
 
 ---
@@ -126,7 +129,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - **Details:** Describe the issue briefly (e.g., "The CFO's laptop is not powering on, and it needs urgent attention.")
  
 <p>
-<img src="https://i.imgur.com/FF8TDmh.png" height="80%" width="80%" alt="Lab 3 Step 3"/>
+<img src="https://github.com/user-attachments/assets/0a5814c9-84d6-4948-8c13-cbe0fc41f131"/>
 </p>
 
 <h3>11.) Observe Ticket Properties as Help Desk Agent</h3>
@@ -139,8 +142,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - **Assigned To:** Not yet assigned.
 
 <p>
-<img src="https://i.imgur.com/BOIMfD3.png" height="80%" width="80%" alt="Lab 3 Step 3"/>
-</p>
+<img src="https://github.com/user-attachments/assets/30705a5e-ae48-4509-8e2c-1e37333ef4e7"/>
+
 
 <h3>12.) Set Ticket Properties</h3>
 
@@ -149,7 +152,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - **Department:** Support.
 
 <p>
-<img src="https://i.imgur.com/5QIMpDf.png" height="80%" width="80%" alt="Lab 3 Step 3"/>
+<img src="https://github.com/user-attachments/assets/d519595c-8c45-4669-8965-79da317a99eb"/>
 </p>
 
 <h3>13.) Work the Ticket to Completion</h3>
@@ -158,6 +161,19 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Take ownership of the ticket, work the issue, and resolve it.
 - Mark the ticket as **Closed** once the issue is resolved.
 
+<p>
+<img src="https://github.com/user-attachments/assets/de57757c-72e6-4f95-b270-47dffc4fb704"/>
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/78f53308-f605-4bce-bb24-f412fde4381b"/>
+</p>
+
+<p>
+<img src="https://github.com/user-attachments/assets/85b34785-062f-4b56-aae8-b314aab5b260"/>
+
+
+</p>
 ---
 
 <h2>Conclusion</h2>
