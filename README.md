@@ -94,6 +94,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 
 <h3>6.) Work the Ticket to Completion</h3>
+
 - Log in as **Help Desk Agent (John)**.
 - Work the issue, and resolve it.
 - Mark the ticket as **Closed** once the issue is resolved.
